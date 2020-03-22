@@ -8,7 +8,7 @@ Correction factors for pedestrian and bicycle counting stations have been transc
 
 # Content
 
-The repository contains both a CSV and an XLSX file. The XLSX file marks in yellow where the mapping of correction factors involves some uncertainty as to the correct allocation to counting locations and (possibly) directions.
+The repository contains both a CSV and an XLSX file. The XLSX file marks *in yellow* where the mapping of correction factors involves some uncertainty as to the correct allocation to counting locations and (possibly) directions.
 
 # Note
 
